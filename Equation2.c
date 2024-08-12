@@ -1,6 +1,6 @@
+#define c 299792458 // 单位：m/s
 void Einstein(){
 // 定义光速
-#define c 299792458 // 单位：m/s
 // 计算洛伦兹因子
 double lorentzFactor(double v) {
     return 1 / sqrt(1 - pow(v / c, 2));
