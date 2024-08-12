@@ -28,7 +28,10 @@ int main() {
 }
 ;}
 void Hawking(){
-
+    printf("The Zeroth Law of Black Hole Thermodynamics: This law states that a stationary black hole has a constant surface gravity on its event horizon, which is analogous to the concept of temperature equilibrium in thermal systems.");
+    printf("The First Law of Black Hole Thermodynamics: Also known as the conservation of energy for black holes, this law combines the mass (or energy) of a black hole with changes in its angular momentum and charge, similar to how the first law of thermodynamics relates internal energy to heat and work exchanges.");
+    printf("The Second Law of Black Hole Thermodynamics: This law posits that the area of a black hole's event horizon cannot decrease over time, which is akin to the second law of thermodynamics where entropy, or disorder, can never decrease in an isolated system.");
+    printf("The Third Law of Black Hole Thermodynamics: This law suggests that it is impossible to create a black hole with zero surface gravity through any physical process, which mirrors the third law of thermodynamics, which states that the entropy of a system approaches a minimum at absolute zero temperature.");
 ;}
 void Robot(){
 
