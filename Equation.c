@@ -60,14 +60,17 @@ void Newton(){
 ;}
 void Dirac(){
 /*
-The Dirac equation is a fundamental equation in quantum mechanics that describes the behavior of spin - 1/2 particles, such as electrons and quarks. It was formulated by British physicist Paul Dirac in 1928. The equation combines special relativity with quantum mechanics, 
+The Dirac equation is a fundamental equation in quantum mechanics that describes the behavior of spin - 1/2 particles, such as electrons and quarks. 
+It was formulated by British physicist Paul Dirac in 1928. The equation combines special relativity with quantum mechanics, 
 resulting in a wave function that has four components corresponding to the particle's spin states.
 The Dirac equation can be written in the following form:
 (i * ��^0 * (E * ��^0 - p * ��^1) - m) * �� = 0
 The key feature of the Dirac equation is its prediction of antimatter. 
 For every solution to the Dirac equation, there exists an anti-particle with the same mass but opposite charge. 
 This discovery resolved the issue of negative energy states predicted by earlier versions of quantum theory and laid the foundation for the development of quantum field theory.
-The Dirac equation also leads to the concept of spinors, which are mathematical objects used to describe the intrinsic angular momentum (spin) of elementary particles. Spinors have properties that distinguish them from ordinary vectors or tensors, such as their transformation under Lorentz transformations.
-In summary, the Dirac equation is a pivotal advancement in theoretical physics that unifies the principles of special relativity with quantum mechanics, leading to the prediction of antiparticles and providing a framework for understanding the spin of fundamental particles.
+The Dirac equation also leads to the concept of spinors, which are mathematical objects used to describe the intrinsic angular momentum (spin) of elementary particles. 
+Spinors have properties that distinguish them from ordinary vectors or tensors, such as their transformation under Lorentz transformations.
+In summary, the Dirac equation is a pivotal advancement in theoretical physics that unifies the principles of special relativity with quantum mechanics, 
+leading to the prediction of antiparticles and providing a framework for understanding the spin of fundamental particles.
 */
 }
